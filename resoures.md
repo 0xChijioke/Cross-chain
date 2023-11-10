@@ -1,0 +1,4 @@
+Cross-chain smart contracts are decentralized applications that are composed of multiple different smart contracts deployed across multiple different blockchain networks that interoperate to create a single unified application. 
+
+
+With CCIP token transfers, your protocol can start transferring tokens across chains in a fraction of the time it would take for you to build a solution on your own. CCIP provides audited token pool contracts that handle the complexity of burning/minting or locking/unlocking of your token across chains. Importantly, token sponsors maintain full control over their token pool contract while using CCIP.
